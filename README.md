@@ -9,4 +9,4 @@ Using command : docker run <image-name>
 In this project, docker run python-version-app
 
 #SCREENSHOT OF OUTPUT
-![Docker Output](output.png)
+![Docker Output](Output.png)
